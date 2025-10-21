@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Deep 👋  
+I'm a Data Analyst who loves building dashboards and data stories using Power BI, SQL, and Excel.
 
-<!--
-**mydeepcode/mydeepcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects  
+- 🛒 [Blinkit Business Dashboard](https://github.com/mydeepcode/Blinkit-Inventory-Performance-Analysis)  
+- 👟 [Adidas Sales Dashboard](https://github.com/mydeepcode/Adidas-Business-Analysis-Dashboard)  
+- 👥 [HR Analytics Dashboard](https://github.com/mydeepcode/HR-Dashboard)  
+- 💳 [Credit Card Transaction Dashboard](https://github.com/mydeepcode/Credit-Card-Transaction-Analysis-Dashboard)  
+- 📊 [Project Management Dashboard](https://github.com/mydeepcode/Project-Management-Dashboard)  
+- ❤️ [Heart Disease Dashboard](https://github.com/mydeepcode/Heart-Disease-Analysis-Dashboard)  
+- ✈️ [Weather Impact on Flights](https://github.com/mydeepcode/Weather-Impact-on-Flight-Operations-Dashboard-Power-BI-Project-)  
+- 🛍️ [Retail Analysis Dashboard](https://github.com/mydeepcode/Retail-Analysis-Dashboard)
 
-Here are some ideas to get you started:
+## 🧠 Skills  
+Power BI • Power Query (M) • DAX • SQL • Excel • Data Cleaning • Visualization • Storytelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+📧 Email: deepchatterjee910@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/thisisdeep](https://linkedin.com/in/thisisdeep)
