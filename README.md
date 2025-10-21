@@ -2,13 +2,6 @@
 
 ### 📊 Power BI Developer | Data Analyst | Business Intelligence Specialist
 
-<!-- Banner -->
-<div align="center">
-  
-![Banner](https://github-readme-tech-stack.vercel.app/api/cards?title=Power%20BI%20Developer%20%7C%20Data%20Analyst&bg=%230D47A1&titleColor=white&borderColor=white&lineCount=2&badges=Power-BI,SQL,DAX,Excel,Python&badgeColor=white&textColor=black)
-
-</div>
-
 Welcome to my GitHub profile! I'm a passionate **Power BI Developer** and **Data Analyst** with expertise in end-to-end data solutions - from data extraction to interactive dashboard creation and business insights delivery.
 
 ---
