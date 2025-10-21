@@ -16,4 +16,4 @@ Power BI • Power Query (M) • DAX • SQL • Excel • Data Cleaning • Vis
 
 ## 📫 Connect with Me  
 📧 Email: deepchatterjee910@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/thisisdeep](https://linkedin.com/in/thisisdeep)
+🔗 LinkedIn: [linkedin.com/in/thisisdeep](https://www.linkedin.com/in/deep-chatterjee/)
